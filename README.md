@@ -11,10 +11,12 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 
 
 
-| Semana                  | Tema              |
-| :---                    | :---              |
-| [Semana 01](#semana-01) | Apresentação      |
-| [Semana 02](#semana-02) | Conteúdo          |
+| Semana                  | Tema               |
+| :---                    | :---               |
+| [Semana 01](#semana-01) | Apresentação       |
+| [Semana 02](#semana-02) | Momento Angular    |
+| [Semana 03](#semana-03) | Momento de Inércia |
+| [Semana 04](#semana-04) | Trabalho Equipe 1  |
 
 
 
@@ -23,6 +25,30 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 *27/02/2023 N2AB*
 
  - [x] Apresentação da disciplina;
+
+
+
+## Semana 02
+
+*06/03/2023 N2AB*
+
+ - [x] Experimento 1: Momento Angular;
+
+
+
+## Semana 03
+
+*13/03/2023 N2AB*
+
+ - [x] Experimento 2: Momento de Inércia;
+
+
+
+## Semana 04
+
+*20/03/2023 N2AB*
+
+ - [ ] Organização do Trabalho em Equipe;
 
 
 
