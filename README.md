@@ -17,6 +17,8 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 | [Semana 02](#semana-02) | Momento Angular    |
 | [Semana 03](#semana-03) | Momento de Inércia |
 | [Semana 04](#semana-04) | Trabalho Equipe 1  |
+| [Semana 05](#semana-05) | Densimetria        |
+| [Semana 06](#semana-06) | Relatórios         |
 
 
 
