@@ -52,6 +52,22 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 
 
 
+## Semana 05
+
+*27/03/2023 N2AB*
+
+ - [x] Experimento 3: Princípio de Arquimedes e Densimetria;
+
+
+
+## Semana 06
+
+*03/04/2023 N2AB*
+
+ - [x] Instruções sobre relatórios;
+ - [x] [Arquivos](https://mega.nz/folder/oGQz2ZyC#88Gzgtx8mE1XhS-WRSy0qA)
+
+
 
 ----
 
