@@ -77,6 +77,7 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 *10/04/2023 N2AB*
 
  - [x] Prática 4: Termômetros;
+ - [x] Roteiro da prática [AQUI](https://mega.nz/folder/oGQz2ZyC#88Gzgtx8mE1XhS-WRSy0qA)
 
 
 
