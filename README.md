@@ -21,6 +21,7 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 | [Semana 06](#semana-06) | Relatórios         |
 | [Semana 07](#semana-07) | Termômetros        |
 | [Semana 08](#semana-08) | Termoscópio        |
+| [Semana 09](#semana-09) | Capacidade Térmica |
 
 
 
@@ -87,6 +88,14 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 *17/04/2023 N2AB*
 
  - [x] Prática 5: Termoscópio;
+
+
+
+## Semana 09
+
+*24/04/2023 N2AB*
+
+ - [ ] Prática 6: Capacidade Térmica;
 
 
 
