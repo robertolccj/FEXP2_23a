@@ -20,6 +20,7 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 | [Semana 05](#semana-05) | Densimetria        |
 | [Semana 06](#semana-06) | Relatórios         |
 | [Semana 07](#semana-07) | Termômetros        |
+| [Semana 08](#semana-08) | Termoscópio        |
 
 
 
@@ -78,6 +79,14 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 
  - [x] Prática 4: Termômetros;
  - [x] Roteiro da prática [AQUI](https://mega.nz/folder/oGQz2ZyC#88Gzgtx8mE1XhS-WRSy0qA)
+
+
+
+## Semana 08
+
+*17/04/2023 N2AB*
+
+ - [x] Prática 5: Termoscópio;
 
 
 
