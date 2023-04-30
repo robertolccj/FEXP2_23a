@@ -8,6 +8,7 @@ Página de apoio à disciplina de Física Experimental 2, ministrada pelo profes
 2. [Cronograma e Contato do Professor](files/FEXP2_plano.pdf)
 3. [Curso de Física - IFCE Sobral](https://ifce.edu.br/sobral/campus-sobral/cursos/superiores/licenciatura/fisica)
 4. [Atualizações](https://github.com/robertolccj/FEXP2_23a/commits/main)
+5. [Outros arquivos](https://mega.nz/folder/oGQz2ZyC#88Gzgtx8mE1XhS-WRSy0qA)
 
 
 
